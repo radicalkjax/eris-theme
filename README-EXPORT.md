@@ -24,7 +24,7 @@ The theme can be used in several ways:
 For detailed installation and usage instructions, see the following files:
 
 - `eris-theme/QUICK_START.md`: Quick start guide for using the theme
-- `eris-theme/README.md`: Comprehensive documentation for the theme
+- `eris-theme/THEME_PACKAGE.md`: Guide to the exported theme package
 - `eris-theme/INSTALL.md`: Detailed technical installation guide
 - `eris-theme/GITHUB_PAGES_GUIDE.md`: Comprehensive guide for GitHub Pages users
 

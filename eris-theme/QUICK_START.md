@@ -265,6 +265,6 @@ After setting up your site:
 ## Getting Help
 
 For more detailed information:
-- [README.md](README.md): Overview of the theme
+- [THEME_PACKAGE.md](THEME_PACKAGE.md): Guide to the exported theme package
 - [INSTALL.md](INSTALL.md): Detailed technical installation guide
 - [GITHUB_PAGES_GUIDE.md](GITHUB_PAGES_GUIDE.md): Comprehensive GitHub Pages guide

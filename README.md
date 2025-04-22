@@ -2,7 +2,37 @@
 
 Eris is a modern, minimalist Jekyll theme with a distinctive purple color scheme and unique border styling. It features a responsive design, dropdown navigation, social media integration, and built-in support for Mermaid diagrams.
 
-![Eris Theme Preview](screenshot.png)
+<!-- Note: Replace this comment with an actual screenshot before distribution -->
+<!-- ![Eris Theme Preview](screenshot.png) -->
+
+## Documentation
+
+| Document | Description |
+|----------|-------------|
+| [README.md](README.md) | Main theme overview and technical details |
+| [THEME_PACKAGE.md](eris-theme/THEME_PACKAGE.md) | Guide to the exported theme package |
+| [QUICK_START.md](eris-theme/QUICK_START.md) | Quick start guide for beginners |
+| [INSTALL.md](INSTALL.md) | Detailed technical installation guide |
+| [GITHUB_PAGES_GUIDE.md](eris-theme/GITHUB_PAGES_GUIDE.md) | Comprehensive GitHub Pages guide |
+| [README-EXPORT.md](README-EXPORT.md) | Information about the theme export |
+
+## Helper Scripts
+
+| Script | Description |
+|--------|-------------|
+| [install.sh](eris-theme/install.sh) | Helps users install the theme in their Jekyll site |
+| [create-site.sh](eris-theme/create-site.sh) | Creates a new Jekyll site with the Eris theme |
+| [test-theme.sh](eris-theme/test-theme.sh) | Creates a test site to verify the theme is working correctly |
+| [customize-theme.sh](eris-theme/customize-theme.sh) | Interactive script to customize theme colors, navigation, and more |
+| [update-theme.sh](eris-theme/update-theme.sh) | Updates the theme in an existing Jekyll site |
+| [create-home.sh](eris-theme/create-home.sh) | Creates a customized home page |
+| [create-about.sh](eris-theme/create-about.sh) | Creates an about page with biography and timeline |
+| [create-post.sh](eris-theme/create-post.sh) | Creates a new blog post with proper front matter |
+| [create-page.sh](eris-theme/create-page.sh) | Creates a new page with proper front matter |
+| [create-project.sh](eris-theme/create-project.sh) | Creates a new project page with proper front matter |
+| [create-contact.sh](eris-theme/create-contact.sh) | Creates a contact page with a contact form |
+| [create-blog-index.sh](eris-theme/create-blog-index.sh) | Creates a blog index page to list all posts |
+| [deploy-to-github.sh](eris-theme/deploy-to-github.sh) | Deploys the Jekyll site to GitHub Pages |
 
 ## Technical Overview
 
