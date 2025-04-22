@@ -1,0 +1,35 @@
+{
+  "name": "eris-theme",
+  "version": "0.1.0",
+  "description": "Eris is a modern, minimalist Jekyll theme with a distinctive purple color scheme and unique border styling.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload",
+    "build": "bundle exec jekyll build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radicalkjax/eris-theme.git"
+  },
+  "keywords": [
+    "jekyll",
+    "theme",
+    "eris",
+    "blog",
+    "portfolio",
+    "responsive",
+    "mermaid"
+  ],
+  "author": "Kali Jackson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radicalkjax/eris-theme/issues"
+  },
+  "homepage": "https://github.com/radicalkjax/eris-theme#readme",
+  "devDependencies": {
+    "browser-sync": "^2.29.3",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
+  }
+}

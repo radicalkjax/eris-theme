@@ -1,0 +1,18 @@
+# Screenshot Placeholder
+
+The screenshot.png file is currently empty. Before distributing this theme, you should replace it with an actual screenshot of a site using the Eris theme.
+
+## Recommended Screenshot Specifications:
+- Size: 1200x900 pixels
+- Format: PNG with transparency
+- Content: Homepage of a site using the Eris theme
+- Include: Header, navigation, content area, and footer
+
+A good screenshot will help potential users understand the visual style and layout of the theme.
+
+## How to Create a Screenshot:
+1. Set up a sample site using the Eris theme
+2. Customize it with sample content
+3. Take a screenshot of the homepage
+4. Resize it to 1200x900 pixels
+5. Save it as screenshot.png in the root directory of the theme
